@@ -10,7 +10,6 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.databinding.DataBindingUtil
 import com.example.aboutme.databinding.ActivityMainBinding
-import com.example.android.aboutme.MyName
 
 class MainActivity : AppCompatActivity() {
 
